@@ -34,9 +34,9 @@ xmlns="http://www.w3.org/1999/xhtml">
       </meta>
     </xsl:if>
 
-    <link rel="stylesheet" href="//cdn.rawgit.com/regebro/hovercraft/master/hovercraft/templates/default/css/hovercraft.css" media="all"></link>
-    <link rel="stylesheet" href="//cdn.rawgit.com/regebro/hovercraft/master/hovercraft/templates/default/css/impressConsole.css" media="all"></link>
-    <link rel="stylesheet" href="//cdn.rawgit.com/regebro/hovercraft/master/hovercraft/templates/default/css/highlight.css" media="all"></link>
+    <link rel="stylesheet" href="/static/css/hovercraft.css" media="all"></link>
+    <link rel="stylesheet" href="/static/css/impressConsole.css" media="all"></link>
+    <link rel="stylesheet" href="/static/css/highlight.css" media="all"></link>
 
     <link rel="stylesheet" href="//github.com/regebro/hovercraft/blob/master/docs/examples/hovercraft.css" media="screen,projection"></link>
 
